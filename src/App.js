@@ -31,7 +31,7 @@ function App() {
       </div>
 
       <div className="section copyright">
-        <p>© 2021 ICSSC Projects Committee</p>
+        <p>© 2022 ICSSC Events and Projects Committees • Website designed by Ryan Mohta</p>
       </div>
 
     </div>
