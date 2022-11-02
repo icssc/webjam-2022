@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4d9a05b.css",
+    "main.css": "/static/css/main.1dc2624f.css",
     "main.js": "/static/js/main.8ca051ba.js",
     "static/js/787.94c5a0ff.chunk.js": "/static/js/787.94c5a0ff.chunk.js",
-    "static/media/cover-dark.svg": "/static/media/cover-dark.f05f5b3f3ab9ac7e94a1.svg",
-    "static/media/cover-light.svg": "/static/media/cover-light.3c340f2103521c4d2b21.svg",
+    "static/media/cover-dark.svg": "/static/media/cover-dark.53ae77e7199c98712851.svg",
+    "static/media/cover-light.svg": "/static/media/cover-light.7522d08193a6452830d2.svg",
     "static/media/tofinopropersonal-semibold.woff": "/static/media/tofinopropersonal-semibold.29c4224e3ab35f420ead.woff",
     "static/media/tofinopropersonal-medium.woff": "/static/media/tofinopropersonal-medium.7442f78e87a6452f7b20.woff",
     "static/media/tofinopropersonal-regular.woff": "/static/media/tofinopropersonal-regular.a45648d16492de119e31.woff",
@@ -14,12 +14,12 @@
     "static/media/tofinopropersonal-regular.woff2": "/static/media/tofinopropersonal-regular.7ff8e7ba4384595e7b0e.woff2",
     "static/media/tofinopropersonal-book.woff2": "/static/media/tofinopropersonal-book.cc8bc7c16aadc7214b9a.woff2",
     "index.html": "/index.html",
-    "main.d4d9a05b.css.map": "/static/css/main.d4d9a05b.css.map",
+    "main.1dc2624f.css.map": "/static/css/main.1dc2624f.css.map",
     "main.8ca051ba.js.map": "/static/js/main.8ca051ba.js.map",
     "787.94c5a0ff.chunk.js.map": "/static/js/787.94c5a0ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4d9a05b.css",
+    "static/css/main.1dc2624f.css",
     "static/js/main.8ca051ba.js"
   ]
 }
