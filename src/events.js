@@ -2,58 +2,44 @@ const events = [
   {
     name: 'Kickoff Ceremony',
     weekday: 'Mon',
-    shortDate: 11,
-    info: 'Mon 10/11 @ 6PM PST • ICSSC • <a href="https://uci.zoom.us/j/91907202064">Zoom link</a>',
+    shortDate: 14,
+    info: 'Mon 11/14 @ 4PM • ICSSC • DBH 4011',
     description: 'Come out to our opening ceremony to learn about the schedule, rules, and resources for WebJam! We will also be going over all of the exciting workshops we have planned for the week, so make sure to come by to learn more.'
   },
   {
-    name: 'Basics of UI/UX',
-    weekday: 'Mon',
-    shortDate: 11,
-    info: 'Mon 10/11 @ 8PM PST • Design at UCI • <a href="https://uci.zoom.us/j/93085544467">Zoom link</a>',
-    description: 'This workshop will go over the fundamentals of both UI and UX. A brief introduction about each part will be given to ensure that attendees have a good understanding of the differences between the two, as well as how the two sections overlap. The UI section will go over basic visual design principles. The UX section will explain common layout designs and practices.'
-  },
-  {
-    name: 'Introduction to APIs',
+    name: 'Intro to Vanilla JS',
     weekday: 'Tue',
-    shortDate: 12,
-    info: 'Tue 10/12 @ 7PM PST • ICSSC Projects • <a href="https://uci.zoom.us/j/97145013174">Zoom link</a>',
-    description: "Learn how to use APIs in web development and how they can enhance your project. The workshop will also introduce ICSSC Projects' very own PeterPortal API."
+    shortDate: 15,
+    info: 'Tue 11/15 @ 7PM • Hack at UCI • DBH 3011',
+    description: "Interested in learning about web development but don't know where to start? Join HackUCI at our workshop Tuesday, November 15 from 7-8PM to learn about basic web development in HTML, CSS, and JavaScript!"
   },
   {
-    name: 'Intro to React',
+    name: 'Web Accessibility',
     weekday: 'Tue',
-    shortDate: 12,
-    info: 'Tue 10/12 @ 8:30PM PST • ICSSC • <a href="https://uci.zoom.us/j/92725260380">Zoom link</a>',
-    description: "Build an interactive website with React, the most popular web dev framework around! You'll learn what React actually is and explore some of its building blocks — components, props, state, and events — and the role each plays in a React app. We'll also be adding Dark Mode to this website in the Dark Mode workshop Thursday night!"
+    shortDate: 15,
+    info: 'Tue 11/15 @ 8PM • ICSSC Projects • DBH 3011',
+    description: "It's important to make your website accessible so everyone can experience and enjoy it in the same way. Learn more about why you should make your website accessible and common methods of doing so at our Web Accessibility workshop hosted by our Projects Committee!"
   },
   {
-    name: 'Introduction to Python Flask',
+    name: 'How to Create Tech for Social Good',
     weekday: 'Wed',
-    shortDate: 13,
-    info: 'Wed 10/13 @ 8PM PST • WICS • <a href="https://uci.zoom.us/j/94632240042">Zoom link</a>',
-    description: "<p>Learn the basics of Python Flask and create a basic end-to-end web app through an interactive workshop hosted by WICS!</p><p>(note: our presenters ask that you clone <a href='https://github.com/WICSOutreach/webjam-web-dev-workshop'>this repository</a> and set things up beforehand so that you are ready to go with the workshop! Need help? Here's a <a href='https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository'>guide</a> on how to clone a repo)</p>",
+    shortDate: 16,
+    info: 'Wed 11/16 @ 7PM • Commit the Change • DBH 3011',
+    description: "Learn how to create tech that positively impacts the world at our Social Good workshop hosted by Commit the Change!"
   },
   {
-    name: 'Introduction to SQL',
+    name: 'A Deep Dive Into Backend Development Concepts',
     weekday: 'Thu',
-    shortDate: 14,
-    info: 'Thu 10/14 @ 7PM PST • MAISS • <a href="https://uci.zoom.us/j/93913207887">Zoom link</a>',
-    description: 'Learn the applications of SQL through an introductory, interactive workshop hosted by MAISS.'
-  },
-  {
-    name: 'Add Dark Mode to your website',
-    weekday: 'Thu',
-    shortDate: 14,
-    info: 'Thu 10/14 @ 8:30PM PST • ICSSC • <a href="https://uci.zoom.us/j/92333590113">Zoom link</a>',
-    description: "The React app you made with us on Tuesday is about to get a fresh coat of dark paint! Along the way, you'll also learn why you should add this sleek new look to your website, and best design/coding practices to guarantee a great experience for your user. (if you didn't attend the Intro to React workshop on Tuesday that's fine too, we'll provide source code!)"
+    shortDate: 17,
+    info: 'Thu 11/17 @ 7PM • DBH 3011',
+    description: "Want to know more about server-side development? We'll walk you through how to set up a backend server from scratch, debug network traffic, and even a bit about deployment.",
   },
   {
     name: 'Presentations & Closing Ceremony',
     weekday: 'Fri',
-    shortDate: 15,
-    info: 'Fri 10/15 @ 5PM PST • DBH 6011',
-    description: 'WebJam comes to a close with our prize ceremony! As the only IN-PERSON event during the week, this ceremony will allow you to present your projects in front of our esteemed judges and audience for the chance to win some cool prizes.'
+    shortDate: 18,
+    info: 'Fri 11/18 @ 7PM • DBH 3011',
+    description: 'WebJam comes to a close with our prize ceremony! Present your projects in front of our esteemed judges and audience for the chance to win some cool prizes.'
   }
 ];
 
