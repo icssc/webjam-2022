@@ -25,14 +25,14 @@ const events = [
     weekday: 'Wed',
     shortDate: 16,
     info: 'Wed 11/16 @ 7PM • Commit the Change • DBH 3011',
-    description: "Learn how to create tech that positively impacts the world at our Social Good workshop hosted by Commit the Change!"
+    description: "Are you interested in creating tech for social good? Join Commit the Change as we discuss how to design and develop software to create an impact in your surrounding community, whether large or small! We'll be touching on development with regard to accessibility, inclusive technology, and ethics, as well as technical challenges and opportunities that arise when building tech for social good."
   },
   {
     name: 'A Deep Dive Into Backend Development Concepts',
     weekday: 'Thu',
     shortDate: 17,
     info: 'Thu 11/17 @ 7PM • DBH 3011',
-    description: "Want to know more about server-side development? We'll walk you through how to set up a backend server from scratch, debug network traffic, and even a bit about deployment.",
+    description: "Want to know more about server-side development? We'll walk you through how to set up a backend server from scratch, debug network traffic, and even a bit about deployment. (Workshop held by Sam and Eric from ACM)",
   },
   {
     name: 'Presentations & Closing Ceremony',
