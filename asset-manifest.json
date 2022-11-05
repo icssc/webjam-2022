@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1dc2624f.css",
-    "main.js": "/static/js/main.f6ccc1c9.js",
+    "main.js": "/static/js/main.af9ee056.js",
     "static/js/787.94c5a0ff.chunk.js": "/static/js/787.94c5a0ff.chunk.js",
     "static/media/cover-dark.svg": "/static/media/cover-dark.53ae77e7199c98712851.svg",
     "static/media/cover-light.svg": "/static/media/cover-light.7522d08193a6452830d2.svg",
@@ -15,11 +15,11 @@
     "static/media/tofinopropersonal-book.woff2": "/static/media/tofinopropersonal-book.cc8bc7c16aadc7214b9a.woff2",
     "index.html": "/index.html",
     "main.1dc2624f.css.map": "/static/css/main.1dc2624f.css.map",
-    "main.f6ccc1c9.js.map": "/static/js/main.f6ccc1c9.js.map",
+    "main.af9ee056.js.map": "/static/js/main.af9ee056.js.map",
     "787.94c5a0ff.chunk.js.map": "/static/js/787.94c5a0ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1dc2624f.css",
-    "static/js/main.f6ccc1c9.js"
+    "static/js/main.af9ee056.js"
   ]
 }
