@@ -14,18 +14,18 @@ const events = [
     description: "Interested in learning about web development but don't know where to start? Join HackUCI at our workshop Tuesday, November 15 from 7-8PM to learn about basic web development in HTML, CSS, and JavaScript!"
   },
   {
-    name: 'Web Accessibility',
-    weekday: 'Tue',
-    shortDate: 15,
-    info: 'Tue 11/15 @ 8PM • ICSSC Projects • DBH 3011',
-    description: "It's important to make your website accessible so everyone can experience and enjoy it in the same way. Learn more about why you should make your website accessible and common methods of doing so at our Web Accessibility workshop hosted by our Projects Committee!"
-  },
-  {
     name: 'How to Create Tech for Social Good',
     weekday: 'Wed',
     shortDate: 16,
     info: 'Wed 11/16 @ 7PM • Commit the Change • DBH 3011',
     description: "Are you interested in creating tech for social good? Join Commit the Change as we discuss how to design and develop software to create an impact in your surrounding community, whether large or small! We'll be touching on development with regard to accessibility, inclusive technology, and ethics, as well as technical challenges and opportunities that arise when building tech for social good."
+  },
+  {
+    name: 'Creating a More Accessible Web',
+    weekday: 'Wed',
+    shortDate: 16,
+    info: 'Wed 11/16 @ 8PM • ICSSC Projects • DBH 3011',
+    description: "Building a better web means ensuring people from all walks of life and abilities can participate. Learn why web accessibility is important and what it entails."
   },
   {
     name: 'A Deep Dive Into Backend Development Concepts',
