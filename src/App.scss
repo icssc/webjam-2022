@@ -28,12 +28,15 @@ h2 {
 .header .content {
   margin: 6% 8%;
   text-align: center;
-  color: var(--green);
-
+  
   h3, h4 {
     font-weight: 400;
     font-size: 20px;
     margin: 20px;
+  }
+  
+  h3 {
+    color: var(--green);
   }
 
   h4 {

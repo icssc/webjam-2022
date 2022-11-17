@@ -11,8 +11,8 @@ function App() {
         <img className="cover" alt="cover" /> {/* SPECIFIED IN CSS */}
         <div className="content">
           <h3>ICS Student Council invites you to WebJam, a week-long competition where teams of students will create fully functional web applications — no experience necessary! We'll be providing workshops throughout the week to help you get started, and awarding amazing prizes for the best projects out there!</h3>
-          <h4 className="accent"><a href="https://forms.gle/YWDp8CzFCEGq8zEX8">Register</a></h4>
-          <h4><a href="https://forms.gle/GYHLnpYQvTawFS3y8">Become a Mentor</a></h4>
+          <a href="https://forms.gle/YWDp8CzFCEGq8zEX8"><h4 className="accent">Register</h4></a>
+          <a href="https://forms.gle/GYHLnpYQvTawFS3y8"><h4>Become a Mentor</h4></a>
         </div>
       </header>
 
