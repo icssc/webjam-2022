@@ -28,6 +28,11 @@ h2 {
 .header .content {
   margin: 6% 8%;
   text-align: center;
+
+  a {
+    text-decoration: none;
+    color: var(--foreground);
+  }
   
   h3, h4 {
     font-weight: 400;
@@ -36,7 +41,7 @@ h2 {
   }
   
   h3 {
-    color: var(--green);
+    color: var(--light-green);
   }
 
   h4 {
@@ -46,16 +51,10 @@ h2 {
     margin: 12px;
     border-radius: 9999px;
 
-    a {
-      text-decoration: none;
-      color: var(--foreground);
-    }
-
     &.accent {
       background-color: var(--red);
-      a { color: white; }
+      color: white;
     }
-
   }
 }
 
@@ -133,7 +132,7 @@ h2 {
 .Question {
   cursor: pointer;
   height: 256px;
-  background-color: var(--green);
+  background-color: var(--dark-green);
   box-shadow: rgba(17, 12, 46, 0.15) 0px 32px 64px 0px;
   border-radius: 24px;
   display: flex;
@@ -145,11 +144,11 @@ h2 {
 
   &.answered {
     background-color: var(--secondary-background);
-    color: var(--green);
+    color: var(--light-green);
   }
 }
 
 .copyright {
-  color: var(--green);;
+  color: var(--light-green);
   text-align: center;
 }
